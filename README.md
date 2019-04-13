@@ -34,3 +34,5 @@ from b290f70c24d830121b122509aa716e16a4acc545
 
 4. Commit second blue branche after merge with master
 
+## Final step commit
+Commiting final master version
