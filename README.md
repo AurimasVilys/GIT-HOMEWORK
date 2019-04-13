@@ -8,3 +8,4 @@
 4. Commit fourth master version before blue branch
 5. Commit fifth master version
 6. Commit sixth master verion.
+7. Commit seventh master version
