@@ -22,3 +22,4 @@ MASTER
 GREEN
 5. commit green branch after merge with blue
 
+8. Commit eighth master version
