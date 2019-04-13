@@ -12,3 +12,5 @@
 
 3.2. Commit third master version before blue branch
 5.1 Commit blue branch;
+
+5. commit green branch after merge with blue
